@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_names">
+        <item>Sultan Mehmood</item>
+        <item>Uzair</item>
+        <item>Abbas</item>
+        <item>Minhas</item>
+        <item>Shahrukh</item>
+        <item>Sultan Mehmood</item>
+        <item>Uzair</item>
+        <item>Abbas</item>
+        <item>Minhas</item>
+        <item>Shahrukh</item>
+        <item>Sultan Mehmood</item>
+        <item>Uzair</item>
+        <item>Abbas</item>
+        <item>Minhas</item>
+        <item>Shahrukh</item>
+        <item>Sultan Mehmood</item>
+        <item>Uzair</item>
+        <item>Abbas</item>
+        <item>Minhas</item>
+        <item>Shahrukh</item>
+
+    </string-array>
+</resources>
